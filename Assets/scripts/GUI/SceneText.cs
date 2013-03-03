@@ -13,7 +13,6 @@ public class SceneText : GuiObject {
 	// Use this for initialization
 	protected override void Start () {
 		base.Start();
-		text= "fooooooo!";
 	}
 	
 	// Update is called once per frame
