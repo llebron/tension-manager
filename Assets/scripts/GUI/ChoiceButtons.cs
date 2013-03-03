@@ -7,7 +7,7 @@ public class ChoiceButtons : GuiObject
 	//A 2d list containing text choices, by level
 	private ArrayList choiceLevels = new ArrayList ();
 	private int numChoices = 3;
-	
+		
 	//Which choice is selected in the grid?
 	private int choiceSelected = 0;
 	private string[] choiceText;
