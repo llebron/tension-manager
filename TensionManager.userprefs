@@ -6,7 +6,11 @@
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="scripts" expanded="True" selected="True" />
+              <Node name="scripts" expanded="True">
+                <Node name="GUI" expanded="True">
+                  <Node name="GUIManager.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
